@@ -1,13 +1,5 @@
 
-// Browser Sniffing
-var strAgent = window.navigator.userAgent;
-var strAppVersion = window.navigator.appVersion;
 
-var IE =  (((document.all) && (strAppVersion.indexOf("MSIE")!=-1)) || strAgent.indexOf("Trident") != -1) ? true : false;
-var IE6 = ((document.all) && (strAppVersion.indexOf("MSIE 6.")!=-1)) ? true : false;
-var gtIEWin7 = IE && ((strAgent.indexOf("Windows NT 6.1") == -1) && (strAgent.indexOf("Windows NT 6.0") == -1) && (strAgent.indexOf("Windows NT 5.1") == -1) && (strAgent.indexOf("Windows NT 5.0") == -1));
-var FF = (strAgent.indexOf("Firefox")!=-1);
-var Safari3 =  (strAppVersion.indexOf("Safari") && strAppVersion.indexOf("Version/3"));
 
 // Message Delimitors
 var g_strDelim = "|~|";
