@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://66SjNcqES8c_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ThingWorx: Basics of ThingWorx Composer </name>
+			<description lang="und">This introductory course will teach you how to model, connect, analyze, and build Internet of Things (IoT) applications using ThingWorx, an industry-class platform used by developers across the globe. This course will focus on a project where you build an automated IoT system with demonstrated exercises.</description>
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6i5ojeXYEhy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx: Basics of ThingWorx Composer</name>
+			<description lang="und">ThingWorx: Basics of ThingWorx Composer</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5XJ2F0M1X7N" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Overview</name>
+			<description lang="und">Course Overview</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/69oAIjICJ0h" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Outcomes</name>
+			<description lang="und">Course Outcomes</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5lxxCZFE4s1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5qvHTaCsNEp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx overview and Thing Model</name>
+			<description lang="und">ThingWorx overview and Thing Model</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5xSW6invFQJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Entities in ThingWorx</name>
+			<description lang="und">Entities in ThingWorx</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5rW7Jn6OcWn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Entity Elements</name>
+			<description lang="und">Entity Elements</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6HTXExWS5rC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6hwHvNOP0PE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Modeling in ThingWorx</name>
+			<description lang="und">Modeling in ThingWorx</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6hr0dHS6pts" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Project Creation</name>
+			<description lang="und">Project Creation</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/60wdmiRjc37" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing/Template Creation</name>
+			<description lang="und">Thing/Template Creation</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5dLTEUWHcDP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing Shape Creation</name>
+			<description lang="und">Thing Shape Creation</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5XpHiCucI9B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6quhHJ5cbBP" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">User Permissions of ThingWorx Entities</name>
+			<description lang="und">User Permissions of ThingWorx Entities</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6MUvStcBFNZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Summary</name>
+			<description lang="und">Course Summary</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6ZEYYg5swgh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">End</name>
+			<description lang="und">End</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/68lpkRPeMz7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Hightlights</name>
+			<description lang="und">Section Hightlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6eTbvIB5qA0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Search and New</name>
+			<description lang="und">Search and New</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5ndFeYk6Ae8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Search Entities</name>
+			<description lang="und">Search Entities</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5Yg5nFYJjGC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">New Button</name>
+			<description lang="und">New Button</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5bJjluvlwDd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Browse/Open/Project</name>
+			<description lang="und">Browse/Open/Project</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5dDyGMj0ooU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> Browse</name>
+			<description lang="und"> Browse</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/67RR9j5fuhp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Project View</name>
+			<description lang="und">Project View</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5aqyDIgiMrw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Open Project</name>
+			<description lang="und">Open Project</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6ftV4kOBaoO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> Assessment 1</name>
+			<description lang="und"> Assessment 1</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6ftV4kOBaoO/6Thq1RmHh2B" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5iJbqwMj2Bp</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5wA9mQ6WVUh</id>
+					<description lang="und">Rectangular Hotspot 2</description>
+				</component>
+				<component>
+					<id>choice_5iJbqwMj2Bp</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_6id9IMcG535</id>
+					<description lang="und">Rectangular Hotspot 3</description>
+				</component>
+				<component>
+					<id>choice_6jP7xeAaxN2</id>
+					<description lang="und">Rectangular Hotspot 4</description>
+				</component>
+				<component>
+					<id>choice_6Zdiy0MsA0I</id>
+					<description lang="und">Rectangular Hotspot 5</description>
+				</component>
+				<component>
+					<id>choice_5dFaB8YBUSr</id>
+					<description lang="und">Rectangular Hotspot 6</description>
+				</component>
+				<component>
+					<id>choice_5eLYcqCizd8</id>
+					<description lang="und">Rectangular Hotspot 7</description>
+				</component>
+				<component>
+					<id>choice_6StDTZHx5qw</id>
+					<description lang="und">Rectangular Hotspot 8</description>
+				</component>
+				<component>
+					<id>choice_6ZloFBQMTor</id>
+					<description lang="und">Rectangular Hotspot 9</description>
+				</component>
+				<component>
+					<id>choice_62rt5bpbcqZ</id>
+					<description lang="und">Rectangular Hotspot 11</description>
+				</component>
+				<component>
+					<id>choice_6WwcgnL2873</id>
+					<description lang="und">Rectangular Hotspot 10</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5XBREFDOA3e" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Permissions/Monitoring/Manage</name>
+			<description lang="und">Permissions/Monitoring/Manage</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5bALJtIlmCg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Monitor</name>
+			<description lang="und">Monitor</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6ECadPGExnE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Permissions</name>
+			<description lang="und">Permissions</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5qbwko8NqQ6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Manage</name>
+			<description lang="und">Manage</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5VUi95F71Pt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Import and Export/User/Help</name>
+			<description lang="und">Import and Export/User/Help</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6VK63OcdPNm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">User Menu</name>
+			<description lang="und">User Menu</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6YULdhoUgJk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Import/Export</name>
+			<description lang="und">Import/Export</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5yfR2c9g8Je" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Help Menu</name>
+			<description lang="und">Help Menu</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5kVYzzP0tHK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment 2</name>
+			<description lang="und">Assessment 2</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5kVYzzP0tHK/6hWfFGnSx2d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5txyOSbuaJE</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6GGlrWCtQah</id>
+					<description lang="und">Rectangular Hotspot 2</description>
+				</component>
+				<component>
+					<id>choice_6FgroYU6YNa</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_676iNPNjFIP</id>
+					<description lang="und">Rectangular Hotspot 3</description>
+				</component>
+				<component>
+					<id>choice_6b5GO1hNLZl</id>
+					<description lang="und">Rectangular Hotspot 4</description>
+				</component>
+				<component>
+					<id>choice_6iTL8EA2fqW</id>
+					<description lang="und">Rectangular Hotspot 5</description>
+				</component>
+				<component>
+					<id>choice_5txyOSbuaJE</id>
+					<description lang="und">Rectangular Hotspot 6</description>
+				</component>
+				<component>
+					<id>choice_65aadMGJGQw</id>
+					<description lang="und">Rectangular Hotspot 7</description>
+				</component>
+				<component>
+					<id>choice_6OsvDpz142A</id>
+					<description lang="und">Rectangular Hotspot 8</description>
+				</component>
+				<component>
+					<id>choice_66actordvjP</id>
+					<description lang="und">Rectangular Hotspot 9</description>
+				</component>
+				<component>
+					<id>choice_6HiAWduakKg</id>
+					<description lang="und">Rectangular Hotspot 11</description>
+				</component>
+				<component>
+					<id>choice_6hbX1sf9NQj</id>
+					<description lang="und">Rectangular Hotspot 10</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5b3Y3QLmWX7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6bznN5waqBW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Role of Properties, Alerts, and Subscriptions</name>
+			<description lang="und">Role of Properties, Alerts, and Subscriptions</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5YUN5zZ6Quu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Create Properties, Alerts, &amp; Subscriptions </name>
+			<description lang="und">Create Properties, Alerts, &amp; Subscriptions </description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5gCjSzDgT0a" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/6P6iLyPaEJQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx Mashup</name>
+			<description lang="und">ThingWorx Mashup</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5bHzdmvclV1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashup Creation</name>
+			<description lang="und">Mashup Creation</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5p3xcAPaFgW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment 3</name>
+			<description lang="und">Assessment 3</description>
+		</activity>
+		<activity id="http://66SjNcqES8c_course_id/5p3xcAPaFgW/5whBDeykeYZ" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6l7Qgqny7Wf</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6rgBzJ1IaID</id>
+					<description lang="und">Rectangular Hotspot 4</description>
+				</component>
+				<component>
+					<id>choice_6TCJk2jPTxY</id>
+					<description lang="und">Rectangular Hotspot 3</description>
+				</component>
+				<component>
+					<id>choice_5e58Oqg0ySH</id>
+					<description lang="und">Rectangular Hotspot 2</description>
+				</component>
+				<component>
+					<id>choice_6l7Qgqny7Wf</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>
