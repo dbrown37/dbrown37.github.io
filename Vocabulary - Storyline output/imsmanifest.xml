@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5Z08WMAdERO_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Vocabulary</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Vocabulary_ORG">
+    <organization identifier="Vocabulary_ORG">
+      <title>Vocabulary</title>
+      <item identifier="Parallelism_SCO" isvisible="true" identifierref="__5Z08WMAdERO_course_id_RES">
+        <title>Parallelism</title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5Z08WMAdERO_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/Shape68TnPgWnmpM.swf" />
+      <file href="meta.xml" />
+      <file href="story_content/FontFactory.swf" />
+      <file href="story_content/fonts.swf" />
+      <file href="story_content/frame.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Shape68TnPgWnmpM.png" />
+      <file href="story.swf" />
+      <file href="story_content/frame.swf" />
+      <file href="story_content/slides/5uRIJQYcqP1.swf" />
+      <file href="story_content/slides/6m9KNksRDNI.swf" />
+      <file href="story_content/slides/5xECChuAnXs.swf" />
+      <file href="story_content/slides/622eKf5mnBI.swf" />
+      <file href="story_content/slides/6ID5gnql2YX.swf" />
+      <file href="story_content/slides/5ZokXvZ13A3.swf" />
+      <file href="story_content/slides/5oVx6E77TG2.swf" />
+      <file href="story_content/slides/6bVWxNs17BF.swf" />
+      <file href="story_content/slides/6IDqEmrXXL2.swf" />
+      <file href="story_content/slides/5gIAB517Cbe.swf" />
+      <file href="story_content/slides/5Zrnchl3qM9.swf" />
+      <file href="story_content/slides/67AxKnGU1AU.swf" />
+      <file href="story_content/slides/5jBh3FHvDM8.swf" />
+      <file href="story_content/slides/68vnG0AyyoB.swf" />
+      <file href="story_content/slides/5dxjCggTVdr.swf" />
+      <file href="story_content/slides/6cPlEbz3sXx.swf" />
+      <file href="story_content/slides/5kmbNsnO97a.swf" />
+      <file href="story_content/data.swf" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dxjCggTVdr.js" />
+      <file href="html5/data/js/5gIAB517Cbe.js" />
+      <file href="html5/data/js/5jBh3FHvDM8.js" />
+      <file href="html5/data/js/5kmbNsnO97a.js" />
+      <file href="html5/data/js/5oVx6E77TG2.js" />
+      <file href="html5/data/js/5uRIJQYcqP1.js" />
+      <file href="html5/data/js/5xECChuAnXs.js" />
+      <file href="html5/data/js/5ZokXvZ13A3.js" />
+      <file href="html5/data/js/5Zrnchl3qM9.js" />
+      <file href="html5/data/js/622eKf5mnBI.js" />
+      <file href="html5/data/js/67AxKnGU1AU.js" />
+      <file href="html5/data/js/68vnG0AyyoB.js" />
+      <file href="html5/data/js/6bVWxNs17BF.js" />
+      <file href="html5/data/js/6cPlEbz3sXx.js" />
+      <file href="html5/data/js/6ID5gnql2YX.js" />
+      <file href="html5/data/js/6IDqEmrXXL2.js" />
+      <file href="html5/data/js/6m9KNksRDNI.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/ds-bootstrap.min.js" />
+      <file href="html5/lib/scripts/ds-frame.desktop.min.js" />
+      <file href="html5/lib/scripts/ds-frame.mobile.min.js" />
+      <file href="html5/lib/scripts/ds-slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="story_flash.html" />
+      <file href="story_content/story.js" />
+      <file href="story_content/blank.html" />
+      <file href="index_lms.html" />
+      <file href="index_lms_flash.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/scormdriver.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>

@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5gyW4MJHWqc_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ThingWorx: Basics of Mashup Builder</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6Or048cZv1k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx: Basics of MAshup Builder</name>
+			<description lang="und">ThingWorx: Basics of MAshup Builder</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5lsiZAdrIqR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Overview</name>
+			<description lang="und">Course Overview</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5v9ZqxcZxvK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Outcomes</name>
+			<description lang="und">Course Outcomes</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6k3XrfNyrQa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5j6uJ9KVEHS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashups and IoT Applications</name>
+			<description lang="und">Mashups and IoT Applications</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/62fVlAzfgW2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">UI Build Process</name>
+			<description lang="und">UI Build Process</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5vCWyap6Dwy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashup Builder</name>
+			<description lang="und">Mashup Builder</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6oWf7WfVbPD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6oWf7WfVbPD/5iwmakDSCUT" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5fHWXj5IuQV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fHWXj5IuQV</id>
+					<description lang="und">QBox 1</description>
+				</component>
+				<component>
+					<id>choice_5i9LWkWI08O</id>
+					<description lang="und">QBox 2</description>
+				</component>
+				<component>
+					<id>choice_6epal5Ecicg</id>
+					<description lang="und">QBox 3</description>
+				</component>
+				<component>
+					<id>choice_6gEdEkCP78z</id>
+					<description lang="und">QBox 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5juHIxlD5fk" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Multiple Choice</name>
+			<description lang="und">Multiple Choice</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5juHIxlD5fk/61rGYt6W2BR" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6NyS3Wt2Dhj</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5o5pNmvPQUQ</id>
+					<description lang="und">QBox 1</description>
+				</component>
+				<component>
+					<id>choice_6eXZZzZH2Mu</id>
+					<description lang="und">QBox 2</description>
+				</component>
+				<component>
+					<id>choice_6NyS3Wt2Dhj</id>
+					<description lang="und">QBox 3</description>
+				</component>
+				<component>
+					<id>choice_5XCO9Br5i08</id>
+					<description lang="und">QBox 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5s7oTDPXzuT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5WLDhRry6Zy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashup Development Layers</name>
+			<description lang="und">Mashup Development Layers</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6jkVwEEBoLH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Widget Types</name>
+			<description lang="und">Widget Types</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/684GfReHLT2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Widget Usage</name>
+			<description lang="und">Widget Usage</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/62Gpi1OwD8C" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Drag and Drop- Widgets</name>
+			<description lang="und">Drag and Drop- Widgets</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/62Gpi1OwD8C/6hAcLdOZVxu" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_68ktHthcRPd[.]choice_6CZ8FYYe4zg</correctResponsePattern>
+				<correctResponsePattern>statement_6kLji7WJ5TC[.]choice_5YW8fh1WzRu</correctResponsePattern>
+				<correctResponsePattern>statement_5vhwW9g4fFY[.]choice_66W7l5IOckQ</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_68ktHthcRPd</id>
+					<description lang="und">Drop Target 3 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_6kLji7WJ5TC</id>
+					<description lang="und">Drop Target 1 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_5vhwW9g4fFY</id>
+					<description lang="und">Drop Target 2 - Rectangular Hotspot</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6CZ8FYYe4zg</id>
+					<description lang="und">Drag Item 1 - LED Display Widget </description>
+				</component>
+				<component>
+					<id>choice_5YW8fh1WzRu</id>
+					<description lang="und">Drag Item 2 - Tabs Widget</description>
+				</component>
+				<component>
+					<id>choice_66W7l5IOckQ</id>
+					<description lang="und">Drag Item 3 - Button Widget</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6LZ9g2z6Lkt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5noEuet9M1i" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Responsive Versus Static</name>
+			<description lang="und">Responsive Versus Static</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/66z7advTMh3" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Build a Layout</name>
+			<description lang="und">Build a Layout</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6f02fMCGa9D" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Add Widgets to a Blank Layout</name>
+			<description lang="und">Add Widgets to a Blank Layout</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5hGmLanCkOq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment Layouts</name>
+			<description lang="und">Assessment Layouts</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5hGmLanCkOq/5qwbPfw6Rda" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Hotspot</name>
+			<description lang="und">Hotspot</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6GySKrCNghm</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6GySKrCNghm</id>
+					<description lang="und">Rectangular Hotspot 4</description>
+				</component>
+				<component>
+					<id>choice_5dJoEUq8qyA</id>
+					<description lang="und">Rectangular Hotspot 3</description>
+				</component>
+				<component>
+					<id>choice_5eLNRcubklc</id>
+					<description lang="und">Rectangular Hotspot 2</description>
+				</component>
+				<component>
+					<id>choice_6XIGOz4I8eb</id>
+					<description lang="und">Rectangular Hotspot 1</description>
+				</component>
+				<component>
+					<id>choice_incorrect</id>
+					<description lang="und">Incorrect</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6YHz61i2ev6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6n1wx5lilNN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Data Widgets</name>
+			<description lang="und">Data Widgets</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/67NUUyn7KIu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Data and Services</name>
+			<description lang="und">Data and Services</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6Gcn86omPRq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Add Data and Services</name>
+			<description lang="und">Add Data and Services</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5zKfeaXjnOS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment -Data</name>
+			<description lang="und">Assessment -Data</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5zKfeaXjnOS/6Do2mGtntnr" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6FPxJGoskv7</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5zRV2ZEfMyP</id>
+					<description lang="und">QBox 1</description>
+				</component>
+				<component>
+					<id>choice_6FPxJGoskv7</id>
+					<description lang="und">QBox 2</description>
+				</component>
+				<component>
+					<id>choice_601e3xyUtDX</id>
+					<description lang="und">QBox 3</description>
+				</component>
+				<component>
+					<id>choice_5h9WHkFIsPt</id>
+					<description lang="und">QBox 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6RTXnjH1E7f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment -Data</name>
+			<description lang="und">Assessment -Data</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6RTXnjH1E7f/6QhwpuCfeWj" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6V7t9f1l8LF</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6eFqHdEAIOf</id>
+					<description lang="und">QBox 1</description>
+				</component>
+				<component>
+					<id>choice_5sRjWn24txj</id>
+					<description lang="und">QBox 2</description>
+				</component>
+				<component>
+					<id>choice_6V7t9f1l8LF</id>
+					<description lang="und">QBox 3</description>
+				</component>
+				<component>
+					<id>choice_5cZMIgC7Ta7</id>
+					<description lang="und">QBox 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/61VufCJPjgU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5w0RDM8ayLz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashup Styling</name>
+			<description lang="und">Mashup Styling</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5gIdvin5AfQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Definitions, Themes, and States</name>
+			<description lang="und">Definitions, Themes, and States</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5xrKuaNOSiY" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Mashup Best Practices</name>
+			<description lang="und">Mashup Best Practices</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6nRX8wdDLcv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Assessment -Data</name>
+			<description lang="und">Assessment -Data</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/6nRX8wdDLcv/6A7mbLXi4E5" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5otGKFkuy9v</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6FveRSsXWY4</id>
+					<description lang="und">QBox 1</description>
+				</component>
+				<component>
+					<id>choice_5otGKFkuy9v</id>
+					<description lang="und">QBox 2</description>
+				</component>
+				<component>
+					<id>choice_5wv4RmfBHI5</id>
+					<description lang="und">QBox 3</description>
+				</component>
+				<component>
+					<id>choice_5kdYWMRYsDf</id>
+					<description lang="und">QBox 4</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5p7h9WFl5JX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Summary</name>
+			<description lang="und">Course Summary</description>
+		</activity>
+		<activity id="http://5gyW4MJHWqc_course_id/5qo1RagSqLR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">End</name>
+			<description lang="und">End</description>
+		</activity>
+	</activities>
+</tincan>

@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.15.26825.0%0D%0A%0D%0A00:00:00.032%20--%3E%2000:00:04.611%0D%0AWhich%20of%20the%20following%20Thingworx%20characteristics%20do%20not%20execute%20themselves%20automatically?%0D%0A%0D%0A"}')

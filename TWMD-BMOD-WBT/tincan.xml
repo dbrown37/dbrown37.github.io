@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://5fuQKj7FpX5_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">ThingWorx: Basics of Modeling</name>
+			<description lang="und">This course will focus on creating a robust Thing Model using Things, Thing Templates, Thing Shapes, Properties, Events, and Subscriptions. Learn how to organize these entities and properties using Modeling patterns to allow for scalability, flexibility, and seamless use.</description>
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6Or048cZv1k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx: Basics of Modeling</name>
+			<description lang="und">ThingWorx: Basics of Modeling</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5lsiZAdrIqR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Overview</name>
+			<description lang="und">Course Overview</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5v9ZqxcZxvK" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Outcomes</name>
+			<description lang="und">Course Outcomes</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6k3XrfNyrQa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/62mmH0XDx5f" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">ThingWorx Things</name>
+			<description lang="und">ThingWorx Things</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/61cmOlgdIe6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing Model Qualities</name>
+			<description lang="und">Thing Model Qualities</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6FPouduZ1wO" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6FPouduZ1wO/6jtqE8shmp8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6NWYAfwL8Jq</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5skvkJqDjlx</id>
+					<description lang="und">Organized intuitively, meaning that entities have the properties and services expected. </description>
+				</component>
+				<component>
+					<id>choice_6n5qqruAwjd</id>
+					<description lang="und">Organized in a way that makes it easy to deploy to other systems.</description>
+				</component>
+				<component>
+					<id>choice_5ymV9YG8KSU</id>
+					<description lang="und">Designed in a way that scales well, making it easy to add additional devices, device variants, or other functionality.</description>
+				</component>
+				<component>
+					<id>choice_6NWYAfwL8Jq</id>
+					<description lang="und">Changes are made through code changes rather than a User Interface.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5y9wNtNhB3D" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Attributes of a Thing</name>
+			<description lang="und">Attributes of a Thing</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5VaAqeFKMek" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5VaAqeFKMek/5tNftW65vvN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6DWn3UtlucF[.]choice_6j3X6sgjGNQ</correctResponsePattern>
+				<correctResponsePattern>statement_5xOjuJeo1P7[.]choice_6pV18TML6Z4</correctResponsePattern>
+				<correctResponsePattern>statement_5kYH0qrhQD9[.]choice_6RpVoUPkJ51</correctResponsePattern>
+				<correctResponsePattern>statement_6Jyxp6mhdhJ[.]choice_5lpd3RmfPfO</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6DWn3UtlucF</id>
+					<description lang="und">Drop Target 2 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_5xOjuJeo1P7</id>
+					<description lang="und">Drop Target 3 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_5kYH0qrhQD9</id>
+					<description lang="und">Drop Target 1 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_6Jyxp6mhdhJ</id>
+					<description lang="und">Drop Target 4 - Rectangular Hotspot</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6j3X6sgjGNQ</id>
+					<description lang="und">Drag Item 1 - Properties</description>
+				</component>
+				<component>
+					<id>choice_6pV18TML6Z4</id>
+					<description lang="und">Drag Item 2 - Services</description>
+				</component>
+				<component>
+					<id>choice_6RpVoUPkJ51</id>
+					<description lang="und">Drag Item 3 - Events and Subscriptions</description>
+				</component>
+				<component>
+					<id>choice_5lpd3RmfPfO</id>
+					<description lang="und">Drag Item 3 1 -     Configuration Tables</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5Yfr1FW5B8y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">PTC Tractor Fleet</name>
+			<description lang="und">PTC Tractor Fleet</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5s7oTDPXzuT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6HBYNzVe81y" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing Properties</name>
+			<description lang="und">Thing Properties</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5rRQOXOdqrh" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Property Defintions</name>
+			<description lang="und">Property Defintions</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5YE41XOKPIH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Property Contents</name>
+			<description lang="und">Property Contents</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6fg5ZcaJLo5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6fg5ZcaJLo5/6oUoNS5IT5d" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6i0Qbby5Rsp</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6i0Qbby5Rsp</id>
+					<description lang="und">Number</description>
+				</component>
+				<component>
+					<id>choice_5qw5AAx7HJD</id>
+					<description lang="und">Boolean</description>
+				</component>
+				<component>
+					<id>choice_5pVsVoWP1CR</id>
+					<description lang="und">Text</description>
+				</component>
+				<component>
+					<id>choice_6Wm0fV66H76</id>
+					<description lang="und">Username</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5heXcB99NVo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">PTC Tractor Fleet</name>
+			<description lang="und">PTC Tractor Fleet</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6LZ9g2z6Lkt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6Wk51C32M2b" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Projects</name>
+			<description lang="und">Projects</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5pd3vj2zI53" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing Template</name>
+			<description lang="und">Thing Template</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5zGbvgUgswi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Thing Shape</name>
+			<description lang="und">Thing Shape</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6cvO7fK5Zo4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">System-Level Thing Template</name>
+			<description lang="und">System-Level Thing Template</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6gZV5GKGRTw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Choosing the Correct Template</name>
+			<description lang="und">Choosing the Correct Template</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6XbEXQtWJeM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Common System-Level Templates</name>
+			<description lang="und">Common System-Level Templates</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6iy9x3zQpHi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">UI Demo</name>
+			<description lang="und">UI Demo</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6p4Mgk8y7v1" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6p4Mgk8y7v1/6eWFBeQbsox" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5mzkG75d6dv</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6FYsMLP03u3</id>
+					<description lang="und">Tractor Thing</description>
+				</component>
+				<component>
+					<id>choice_5mzkG75d6dv</id>
+					<description lang="und">Generic Thing Template</description>
+				</component>
+				<component>
+					<id>choice_6OqF0toHvrX</id>
+					<description lang="und">Tractor Template</description>
+				</component>
+				<component>
+					<id>choice_6MJSAHc7M19</id>
+					<description lang="und">Tractor Helper Thing</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/61VufCJPjgU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6WXUNiO4pLJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Model Hierarchy</name>
+			<description lang="und">Model Hierarchy</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5caFKUaGSOt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Model Patterns</name>
+			<description lang="und">Model Patterns</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5u4ZmQkzuTF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">One-Time Modeling Patterns</name>
+			<description lang="und">One-Time Modeling Patterns</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5cZJurqkn4v" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Parent-Child Modeling Pattern</name>
+			<description lang="und">Parent-Child Modeling Pattern</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5ikJhrSFmeM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Shape-Based Modeling Pattern</name>
+			<description lang="und">Shape-Based Modeling Pattern</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6kg187VvZVw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Hybrid Modeling Pattern</name>
+			<description lang="und">Hybrid Modeling Pattern</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6R9t9Ea7wat" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Modeling Review Which one should I choose?</name>
+			<description lang="und">Modeling Review Which one should I choose?</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5sYYPTmVWZe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5sYYPTmVWZe/5mZPR3258xv" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Drag and Drop</name>
+			<description lang="und">Drag and Drop</description>
+			<interactionType>matching</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>statement_6Eik50Eeng0[.]choice_6VCRxRZnTnZ</correctResponsePattern>
+				<correctResponsePattern>statement_5bIjqctqZS8[.]choice_6edyJCiu0Ai</correctResponsePattern>
+				<correctResponsePattern>statement_5hqmXeDWjwG[.]choice_5s1vfrd9G9Y</correctResponsePattern>
+				<correctResponsePattern>statement_5bIjqctqZS8[.]choice_6TkZOK0EFj0</correctResponsePattern>
+			</correctResponsePatterns>
+			<source>
+				<component>
+					<id>statement_6Eik50Eeng0</id>
+					<description lang="und">Drop Target 3 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_5bIjqctqZS8</id>
+					<description lang="und">Drop Target 1 - Rectangular Hotspot</description>
+				</component>
+				<component>
+					<id>statement_5hqmXeDWjwG</id>
+					<description lang="und">Drop Target 4 - Rectangular Hotspot</description>
+				</component>
+			</source>
+			<target>
+				<component>
+					<id>choice_6VCRxRZnTnZ</id>
+					<description lang="und">Drag Item 1 - Parent-Child Pattern</description>
+				</component>
+				<component>
+					<id>choice_6edyJCiu0Ai</id>
+					<description lang="und">Drag Item 2 - Shape-Based Pattern</description>
+				</component>
+				<component>
+					<id>choice_5s1vfrd9G9Y</id>
+					<description lang="und">Drag Item 3 - One-Time Pattern</description>
+				</component>
+				<component>
+					<id>choice_6TkZOK0EFj0</id>
+					<description lang="und">Drag Item 3 1 - Hybrid Pattern</description>
+				</component>
+			</target>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5p7h9WFl5JX" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Course Summary</name>
+			<description lang="und">Course Summary</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6h2I6HScPe2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">End</name>
+			<description lang="und">End</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6Bx2BDucGlu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Section Highlights</name>
+			<description lang="und">Section Highlights</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6WVocovBVNN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Services</name>
+			<description lang="und">Services</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5qkpJ3F61LZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Define Custom Services</name>
+			<description lang="und">Define Custom Services</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6gfv9C7zDXu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Execute Custom Services</name>
+			<description lang="und">Execute Custom Services</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5vUaXCnSAs5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Helper Things</name>
+			<description lang="und">Helper Things</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6UHuIoqaCY2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6UHuIoqaCY2/6RWeXUrubqA" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5ling7okcVO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6ipzIIVMvIC</id>
+					<description lang="und">Services</description>
+				</component>
+				<component>
+					<id>choice_5ling7okcVO</id>
+					<description lang="und">Events</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6IpniVcJYc6" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6IpniVcJYc6/6MTwxSOJrj9" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6TqPs9jbWzL</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5fCrmHOQWFD</id>
+					<description lang="und">It retrieves a list of all users that belong to a group.</description>
+				</component>
+				<component>
+					<id>choice_5r5MbzndhLM</id>
+					<description lang="und">The Service creates a new Thing.</description>
+				</component>
+				<component>
+					<id>choice_6TqPs9jbWzL</id>
+					<description lang="und">This Service retrieves a list of the Things that implement the shape or template.</description>
+				</component>
+				<component>
+					<id>choice_5jZm8pbrCBH</id>
+					<description lang="und">It copies files from one file repository to another.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5eMIraWrk4B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Events and Subscriptions</name>
+			<description lang="und">Events and Subscriptions</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/61RK1ghBPAo" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Event and Subscription Hierarchy</name>
+			<description lang="und">Event and Subscription Hierarchy</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6go10oUMNL5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Major Event Types</name>
+			<description lang="und">Major Event Types</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5bRaR68elJe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Event Data</name>
+			<description lang="und">Event Data</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/66KQO7wVjzA" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Alert Events</name>
+			<description lang="und">Alert Events</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/6FNmEAngzIF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Data Change Events</name>
+			<description lang="und">Data Change Events</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5ilt6LGDKmd" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Custom Events</name>
+			<description lang="und">Custom Events</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5boIjunQdOe" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Subscriptions</name>
+			<description lang="und">Subscriptions</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5wdd328SZXq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Knowledge Check</name>
+			<description lang="und">Knowledge Check</description>
+		</activity>
+		<activity id="http://5fuQKj7FpX5_course_id/5wdd328SZXq/5dgPdRQ4NCq" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick One</name>
+			<description lang="und">Pick One</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6VfU06QidMZ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6WQ3tFK1SXm</id>
+					<description lang="und">There are no input parameters for a subscription.</description>
+				</component>
+				<component>
+					<id>choice_6WEIaYTWqHD</id>
+					<description lang="und">They are provided automatically by a Thing Shape.</description>
+				</component>
+				<component>
+					<id>choice_6VfU06QidMZ</id>
+					<description lang="und">They are entered manually by the user.</description>
+				</component>
+				<component>
+					<id>choice_5naiKYHBxgR</id>
+					<description lang="und">They are provided automatically in an Infotable defined by an Event Data Shape.</description>
+				</component>
+			</choices>
+		</activity>
+	</activities>
+</tincan>
